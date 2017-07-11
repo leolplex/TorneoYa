@@ -14,7 +14,7 @@ export class HomeComponent implements OnInit {
   }
   ngAfterViewInit() {
     $(document).ready(function () {
-     $('#datetimepicker1').datetimepicker();
+
     });
   }
 
